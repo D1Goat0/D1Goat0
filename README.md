@@ -23,7 +23,7 @@ Building open-source hardware, firmware, and security tools through **Infiltra N
 
 I design and develop embedded systems, firmware, PCBs, and open-source security hardware.
 
-My primary focus is **Infiltra Network**, an open-source ecosystem dedicated to practical cybersecurity hardware, firmware development, research, and affordable security devices.
+My primary focus is **Infiltra**, Infiltra is a US-based development studio building websites, hosting, payments, and AI-powered systems for modern teams. Transparent scopes, fixed pricing, and engineers who actually answer your messages.
 
 Current areas of interest include:
 
@@ -32,27 +32,10 @@ Current areas of interest include:
 - PCB design
 - Open-source engineering
 - Reverse engineering
-- Low-level software development
-
----
-
-## Current Projects
-
-### Infiltra Network
-
-An open-source platform focused on:
-
-- Security hardware
-- Embedded firmware
-- PCB design
-- Hardware research
-- Educational resources
-- Community-driven development
-
-### D1HackGear
-
-A collection of experimental hardware projects, prototypes, development boards, and firmware.
-
+- Mid-level software development
+- SAAS
+- Embeded Systems
+  
 ---
 
 ## Technology
@@ -109,16 +92,6 @@ A collection of experimental hardware projects, prototypes, development boards, 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1Goat0&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9"/>
 
 </div>
-
----
-
-## Current Focus
-
-- Expanding Infiltra Network
-- Designing custom PCBs
-- Embedded firmware engineering
-- Hardware security research
-- Open-source development
 
 ---
 
