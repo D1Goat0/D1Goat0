@@ -19,7 +19,7 @@ Building open-source hardware, firmware, and security tools through **Infiltra N
 
 ---
 
-## About
+## A*bout
 
 I design and develop embedded systems, firmware, PCBs, and open-source security hardware.
 
@@ -38,9 +38,9 @@ Current areas of interest include:
   
 ---
 
-## Technology
+## T*echnology
 
-### Languages
+### L*anguages
 
 <p>
 
@@ -54,7 +54,7 @@ Current areas of interest include:
 
 </p>
 
-### Frameworks & Platforms
+### F*rameworks & P*latforms
 
 <p>
 
