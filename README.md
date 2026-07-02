@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # Luke
@@ -141,4 +140,3 @@ I am interested in collaborating on:
 *"Building reliable hardware and firmware for the open-source security community."*
 
 </div>
-```
