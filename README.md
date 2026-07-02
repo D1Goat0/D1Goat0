@@ -1,111 +1,144 @@
+```markdown
 <div align="center">
 
-# Luke / D1Goat0
+# Luke
 
-**Security Hardware • Firmware • PCB Design • Open Source**
+### Security Hardware • Embedded Systems • Firmware Engineering • PCB Design
 
-<br>
+Building open-source hardware, firmware, and security tools through **Infiltra Network**.
 
-![GitHub](https://img.shields.io/badge/GitHub-D1Goat0-111111?style=for-the-badge&logo=github&logoColor=white)
-![TikTok](https://img.shields.io/badge/TikTok-@d1goat0-111111?style=for-the-badge&logo=tiktok&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Infiltra%20Network-7f1d1d?style=for-the-badge)
-![Theme](https://img.shields.io/badge/Style-Black%20%2F%20White%20%2F%20Red-991b1b?style=for-the-badge)
+<p>
+  <a href="https://github.com/D1Goat0">
+    <img src="https://img.shields.io/badge/GitHub-D1Goat0-111111?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.tiktok.com/@d1goat0">
+    <img src="https://img.shields.io/badge/TikTok-@d1goat0-111111?style=for-the-badge&logo=tiktok&logoColor=white">
+  </a>
+</p>
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I'm Luke, a builder focused on **security hardware, firmware development, PCB design, and open-source tools**.
+I design and develop embedded systems, firmware, PCBs, and open-source security hardware.
 
-Currently building **Infiltra Network** — an ecosystem around embedded systems, hardware development, security research, and affordable security devices.
+My primary focus is **Infiltra Network**, an open-source ecosystem dedicated to practical cybersecurity hardware, firmware development, research, and affordable security devices.
+
+Current areas of interest include:
+
+- Embedded firmware development
+- Hardware security research
+- PCB design
+- Open-source engineering
+- Reverse engineering
+- Low-level software development
+
+---
+
+## Current Projects
+
+### Infiltra Network
+
+An open-source platform focused on:
+
+- Security hardware
+- Embedded firmware
+- PCB design
+- Hardware research
+- Educational resources
+- Community-driven development
+
+### D1HackGear
+
+A collection of experimental hardware projects, prototypes, development boards, and firmware.
+
+---
+
+## Technology
+
+### Languages
+
+<p>
+
+<img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust&logoColor=white">
+
+</p>
+
+### Frameworks & Platforms
+
+<p>
+
+<img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/.NET-111111?style=for-the-badge&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/CMake-111111?style=for-the-badge&logo=cmake&logoColor=white">
+
+</p>
+
+### Development Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitLab-111111?style=for-the-badge&logo=gitlab&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Raspberry%20Pi-111111?style=for-the-badge&logo=raspberrypi&logoColor=white">
+
+</p>
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=D1Goat0&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=ef4444"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=D1Goat0&theme=transparent&hide_border=true&ring=ef4444&fire=ef4444"/>
+
+<br><br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1Goat0&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9"/>
+
+</div>
 
 ---
 
 ## Current Focus
 
-- Building **Infiltra Network**
-- Learning deeper **C++, HTML, and embedded development**
-- Designing PCBs and hardware systems
-- Creating open-source security tools
-- Collaborating on hardware + firmware projects
+- Expanding Infiltra Network
+- Designing custom PCBs
+- Embedded firmware engineering
+- Hardware security research
+- Open-source development
 
 ---
 
-# Projects
+## Collaboration
 
-## Infiltra Network
+I am interested in collaborating on:
 
-Open-source security hardware and firmware ecosystem focused on practical tools, research, and affordable devices.
-
-## D1HackGear
-
-A collection of hardware experiments, prototypes, and security-focused projects.
-
----
-
-# Tech Stack
-
-<div align="center">
-
-![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-1a1a1a?style=for-the-badge&logo=gitlab&logoColor=white)
-
-![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=for-the-badge&logo=next.js&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-1a1a1a?style=for-the-badge&logo=dotnet&logoColor=white)
-
-![CMake](https://img.shields.io/badge/CMake-1a1a1a?style=for-the-badge&logo=cmake&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-250f0f?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-250f0f?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-250f0f?style=for-the-badge&logo=blender&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-250f0f?style=for-the-badge&logo=adobe&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-250f0f?style=for-the-badge&logo=canva&logoColor=white)
-
-</div>
-
----
-
-# GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=D1Goat0&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=d1d5db&icon_color=ef4444" />
-
-<img height="165" src="https://streak-stats.demolab.com?user=D1Goat0&theme=transparent&hide_border=true&ring=ef4444&fire=ef4444&currStreakLabel=ffffff&sideLabels=d1d5db&currStreakNum=ffffff&dates=9ca3af&sideNums=ffffff" />
-
-<br>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1Goat0&theme=transparent&hide_border=true&layout=compact&title_color=ffffff&text_color=d1d5db" />
-
-</div>
-
----
-
-# Contact
-
-Interested in:
-
-- Hardware development
-- Firmware projects
+- Embedded systems
+- Firmware engineering
 - PCB design
-- Open-source collaboration
-
-Always building something new.
+- Hardware security
+- Open-source hardware
+- Reverse engineering
 
 ---
 
 <div align="center">
+
+*"Building reliable hardware and firmware for the open-source security community."*
+
+</div>
+```
