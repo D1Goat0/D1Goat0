@@ -1,6 +1,6 @@
 <div align="center">
 
-# Luke
+# L*UKE
 
 ### Security Hardware • Embedded Systems • Firmware Engineering • PCB Design
 
